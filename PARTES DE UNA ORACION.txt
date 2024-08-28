@@ -1,0 +1,38 @@
+Partes de una oración
+
+The parts of speech are the categories of the words in traditional English grammar. We can divide them into eight main groups (or nine, if you count determiners): nouns, pronouns, verbs, adjectives, adverbs, prepositions, conjunctions, and interjections.
+The following chart contains the parts of speech, their functions, and some examples of words and sentences.
+
+PARTS OF SPEECH
+PART OF SPEECH	FUNCTION	EXAMPLE	EXAMPLE
+NOUN	Names, places, things, or ideas.	Daniel / New York / dog / notebook / music	Daniel lives in New York. He likes to listen to music.
+PRONOUN	Replaces nouns and other pronouns.	I / she / they / him / them / who / some / this	Daniel lives in New York. He likes to listen to music.
+VERB	Action or state of being. It tells what happens in the sentence.	be / go / eat / work / play / like / study / write / read / speak / watch / listen / live	Daniel lives in New York. He likes to listen to music.
+ADJECTIVE	Describes, modifies, or gives information about nouns and pronouns.	hot / nice / big / wrong / intelligent / beautiful / smart / interesting	I have a nice car. Mark is intelligent.
+ADVERB	Describes verbs, adjectives, or other adverbs.	happily / quickly / well / often / really / very / always / too	They always watch tv. You sing very well!
+PREPOSITION	Links a noun or pronoun to other words in the sentence.	to / for / but / in / on / at / up / over / from / under / of / with / about / near	The pen is under the table. I go there on Friday.
+CONJUNCTION	Connects words, clauses, phrases, and ideas in a sentence.	for / and / but / or / yet / with / is / as…as / because / while	I drink coffee and tea. He likes blue, but he doesn’t like green.
+INTERJECTION	Expresses strong emotions or reactions.	oh / wow / ouch / aha / gosh / well / phew / whoops / hooray	Wow! That’s beautiful. Ouch! It hurts.
+There is a discussion about determiners being a part of speech since they have similar functions to adjectives, articles, and pronouns. There are four types of determiners in English: articles, demonstratives, quantifiers, and possessives.
+
+DETERMINER
+Specifies and identifies nouns and pronouns.
+that / those / some / few / such / the / a / an
+The dog is barking.
+I have some oranges.
+As we saw with the determiners, many words in English have more than one job. For example, “close” can be a verb, a noun, an adjective, and even an adverb. The spelling is the same, but the meanings are different.
+
+VERB: Can you please close the door?
+
+NOUN: It came to a close.
+
+ADJECTIVE: We are close friends.
+
+ADVERB: Don’t be so close to each other.
+
+It is crucial to understand the parts of speech, so you define the exact word order and the correct use of punctuation in a sentence.
+Now, try to write sentences using as many parts of speech as you can. Here is an example:
+
+Oh,	he	and	his	old	dog	walked	to	the	park	slowly.
+Interj.	Pron.	Conj.	Det.	Adj.	Noun	Verb	Prep.	Det.	Noun	Adv.
+

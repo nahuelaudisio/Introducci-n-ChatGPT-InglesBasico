@@ -1,0 +1,50 @@
+Puntuación en Inglés
+
+It is crucial to understand the correct use of punctuation if you want to write more clearly. Also, to create sense and stress in sentences and to organize your writing. At least one of the punctuation marks has to appear in every sentence.
+It is easier to understand the importance of punctuation when reading a paragraph without any punctuation marks.
+
+Every morning I wake up at 8 am the first thing I do is brush my teeth and right after that I take a shower next I dress up and I put on some makeup then I go to the kitchen and I prepare my breakfast breakfast is my favorite meal because I love pancakes waffles scrambled eggs toast with jam coffee and orange juice after I eat I brush my teeth again and I leave for work I always read a book on the bus right now I am reading The Great Gatsby and it is better than the movie usually I work until 6 pm and I go home after that
+
+Now read the same paragraph with the correct use of punctuation and notice the difference:
+
+Every morning I wake up at 8 am. The first thing I do is brush my teeth, and right after that, I take a shower. Next, I dress up, and I put on some makeup. Then, I go to the kitchen, and I prepare my breakfast. Breakfast is my favorite meal because I love pancakes, waffles, scrambled eggs, toast with jam, coffee, and orange juice. After I eat, I brush my teeth again, and I leave for work. I always read a book on the bus. Right now, I am reading “The Great Gatsby” (and it is better than the movie!). Usually, I work until 6 pm, and I go home after that.
+
+PUNCTUATION MARKS
+SYMBOL	NAME	USE	EXAMPLE
+.	Period or Full-stop	Placed at the end of a sentence and many abbreviations.	I study English. He is Mr. Perez.
+?	Question mark	Indicates a question.	Are you hungry? Where do you live?
+!	Exclamation point	Adds emphasis and expresses surprise.	Help! That’s amazing!
+,	Comma	Shows separation of ideas, lists of elements, and sentences.	I want to eat pizza, hotdogs, and ice cream.
+,	Comma	Indicates a direct address.	John, can you come here?
+,	Comma	Used to enclose details.	My friend, Marie, is French.
+;	Semicolon	Connects independent clauses.	He likes you; you are a good person.
+;	Semicolon	Separates items in lists that contain commas.	Last year I visited Salvador, Brazil; Lima, Peru; and Cancun, Mexico.
+:	Colon	Introduces a quotation, an explanation, an example, or a series.	They play different styles: jazz, blues, R&B, and pop.
+:	Colon	Between independent clauses, when the second explains the first.	I am moving to Japan: I was offered a job there.
+:	Colon	For emphasis.	You have one option: do it.
+— or –	Dash em dash — en dash –	Can be used in place of a comma, parentheses, colon, or brackets (em dash)	My friend — Marie — is French.
+— or –	Dash em dash — en dash –	Indicates a range or connections (en dash).	I played basketball there from January – March.
+-	Hyphen	Joins two or more words together into a compound term.	Tomorrow I’ll meet my brother-in-law.
+-	Hyphen	Cannot be separated by spaces.	There are twenty-two students here.
+[ ]	Brackets or Square Brackets	To clarify meaning.	Her cousin [Laura] worked with me.
+[ ]	Brackets or Square Brackets	To add an editorial comment or missing words or letters.	He hate[s] cleaning the house.
+[ ]	Brackets or Square Brackets	To add information.	Next month I am visiting two cities in Spain [Madrid and Barcelona].
+{ }	Braces or Curly Brackets	To contain two or more listed items that are considered as a unit. Not common in writing.	I’m going to the supermarket to buy cereal, eggs, and fruits {bananas, apples, oranges}.
+( )	Parentheses or Round Brackets	To contain further thoughts or remarks.	I was watching Friends (my favorite TV show).
+( )	Parentheses or Round Brackets	To exemplify or clarify.	My friend (Marie) is French.
+( )	Parentheses or Round Brackets	To define abbreviations.	MBA (Master of Business Administration).
+( )	Parentheses or Round Brackets	To indicate plural and singular.	Please write the name(s) of your guest(s).
+’	Apostrophe	Indicates omission of a letter or letters from a word (contractions).	‘Cause he’s tired.
+’	Apostrophe	Possessive case.	We are going to our mother’s house.
+’	Apostrophe	Plural of lowercase letters.	My keyboard is broken, I cannot type any o’s.
+“ ” or ‘ ’	Quotation mark	Marks the beginning and end of a passage, when repeated word by word.	“Don’t go there!”, he said.
+“ ” or ‘ ’	Quotation mark	Indicates meaning and the unusual (or dubious) status of a word.	What do you mean by “crazy”?
+“ ” or ‘ ’	Quotation mark	To cite titles or bibliographic references.	I read “Romeo and Juliet” for my literature class.
+“ ” or ‘ ’	Quotation mark	Single quotation marks are used for quotes within quotes.	She told me, “I read ‘Romeo and Juliet’ for my literature class.”
+…	Ellipsis	Indicates an omission of letters or words.	Let’s count to ten: one, two, three…
+/	Slash, Forward Slash, Virgule, or Oblique	Shows alternatives.	Please press your browser’s Refresh/Reload button.
+/	Slash, Forward Slash, Virgule, or Oblique	Replaces the word “per”.	100 km/hour
+/	Slash, Forward Slash, Virgule, or Oblique	Fractions.	½ pound
+/	Slash, Forward Slash, Virgule, or Oblique	Separates lines in a song or poem.	Twinkle, twinkle, little star, / How I wonder what you are.
+/	Slash, Forward Slash, Virgule, or Oblique	Internet websites or computer programs.	https://platzi.com/
+
